@@ -4,7 +4,7 @@
 20feb 2026aaaa
 25 jan
 
-Hi my name is Sunny Thakur
+Hi my name is Sunny Thakur and I am DevOps Enginner.
 this is change 1
 i am learning devops
 30 jan
